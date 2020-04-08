@@ -5,9 +5,9 @@ Primer repositorio: Jueves 04/20
 ### Subtítulo menor 
 ~Hellohello~ 
 <ol>
-<li>Paloma</li>
-<li>Zorzal</li>
-<li>Gaviota</li>
+<li>Holi</li>
+<li>Chau</li>
+<li>No vimoh</li>
 </ol>
 
 
